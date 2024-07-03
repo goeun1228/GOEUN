@@ -16,7 +16,7 @@ import base64
 
 def main():
     st.set_page_config(page_title="kangsinchat", page_icon="🏫")
-    st.image('knowhow.png')
+    st.image('화학 반응.png')
     st.title("_:red[과학 1단원 도우미]_ 🏫")
     st.header("😶주의!이 챗봇은 참고용으로 사용하세요!", divider='rainbow')
 
